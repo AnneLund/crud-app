@@ -1,3 +1,3 @@
-import print from '../alm-print/index.js'
+import print from 'alm-print'
 
 print('My first package...');
