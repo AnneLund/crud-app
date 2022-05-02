@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/AnneLund/crud-app/issues"
   },
-  "homepage": "https://github.com/AnneLund/crud-app#readme"
+  "homepage": "https://github.com/AnneLund/crud-app#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "lodash": "^4.17.21"
+  }
 }
