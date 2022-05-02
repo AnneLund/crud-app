@@ -1,0 +1,25 @@
+{
+  "name": "crud-app",
+  "version": "1.0.0",
+  "description": "CRUD practice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnneLund/crud-app.git"
+  },
+  "keywords": [
+    "crud",
+    "node-js",
+    "react"
+  ],
+  "author": "Anne Lund Møller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnneLund/crud-app/issues"
+  },
+  "homepage": "https://github.com/AnneLund/crud-app#readme"
+}
